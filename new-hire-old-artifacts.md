@@ -2,6 +2,7 @@
 
 Platform: TryHackMe  
 Category: Digital Forensics / SIEM Investigation
+
 Tools Used: Splunk
 
 ## Scenario
@@ -10,6 +11,7 @@ In this investigation we analyze historical endpoint logs from a finance departm
 Security alerts indicated that antivirus protection was disabled and suspicious executables were executed on the host.
 
 The goal of the investigation is to review available logs and determine:
+
 	•	What activity occurred on the system
 	•	What malware or tools were executed
 	•	Whether persistence or defense evasion techniques were used
